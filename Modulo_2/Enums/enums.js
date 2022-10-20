@@ -22,4 +22,4 @@ var Idioma1;
     Idioma1["Ingles"] = "IN";
     Idioma1["Frances"] = "FR";
 })(Idioma1 || (Idioma1 = {}));
-console.log(Idioma1);
+console.log(Idioma1.Portugues);
