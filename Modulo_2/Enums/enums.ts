@@ -14,10 +14,26 @@ enum Idioma {
 console.log(Idioma);
 
 //String Enum
-enum Idioma1 {
-  Portugues = 'PT-BR',
-  Espanhol = 'ES',
-  Ingles = 'IN',
-  Frances = 'FR',
+enum Dia {
+  Segunda = 'SEG',
+  Terca = 'TER',
+  Quarta = 'QUA',
+  Quinta = 'QUI',
+  Sexta = 'SEX',
+  Sabado = 'SAB',
+  Domingo = 'DOM',
 }
-console.log(Idioma1.Portugues);
+console.log(Dia);
+
+//Enum usando const
+const enum Comida {
+  Hamburger,
+  Massa,
+  Pizza,
+  Torta,
+  Churrasco,
+}
+
+const comida = () => {
+  return 'Comidas muito apetitosas!';
+};
