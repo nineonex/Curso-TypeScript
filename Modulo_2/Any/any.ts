@@ -10,7 +10,6 @@ console.log(c);
 //Any inplicito
 let frase;
 frase = 'oi bomdia';
-
 console.log(frase);
 
 //Quando usar any
