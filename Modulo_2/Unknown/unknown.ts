@@ -1,5 +1,6 @@
+export {};
 //Unknow
-let nomeVariavel2: unknown = undefined;
+let nomeVariavel: unknown = undefined;
 
 //Exemplo
 let valorVariavel: unknown;

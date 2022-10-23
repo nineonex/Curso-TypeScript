@@ -1,5 +1,4 @@
-import { idText } from 'typescript';
-
+export {};
 //IF e Else
 if ('condição') {
   //Instrução if com bloco de fonte

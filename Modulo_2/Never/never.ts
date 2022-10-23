@@ -1,3 +1,4 @@
+export {};
 //Never
 // Usado para excessão da regra
 

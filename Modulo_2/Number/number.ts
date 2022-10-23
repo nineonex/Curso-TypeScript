@@ -1,3 +1,4 @@
+export {};
 // Number & Bigint
 //Number
 let num1: number = 14.0; //number

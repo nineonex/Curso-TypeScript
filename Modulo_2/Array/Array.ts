@@ -1,5 +1,6 @@
+export {}
 //Array
-let nome1: string[] = ['Itens'];
+let nome: string[] = ['Itens'];
 
 //Colchetes
 let frutas: string[] = ['🍍', '🍊', '🍎', '🍉', '🥭'];

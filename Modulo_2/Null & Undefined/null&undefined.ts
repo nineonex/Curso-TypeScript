@@ -1,3 +1,4 @@
+export {};
 // Null
 //Null : Pode ser atribuido a uma variavel e e um objeto]
 

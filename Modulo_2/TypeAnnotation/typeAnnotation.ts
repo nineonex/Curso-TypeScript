@@ -1,3 +1,4 @@
+export {};
 //String
 let nome: string = 'Jao';
 console.log(nome);

@@ -1,11 +1,12 @@
+export {};
 //Object
-const pessoa1 = {
+const pessoa = {
   nome: 'nome',
   sobrenome: 'sobrenome',
   idade: 'idade',
   sexo: 'sexo',
 };
-console.log(pessoa1);
+console.log(pessoa);
 
 //Object como parametro de function
 const onboarding01 = (funcionario: { nome: string }) => {

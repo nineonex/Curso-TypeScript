@@ -1,3 +1,4 @@
+export {};
 // String
 let nomeVariavel: string = 'valor';
 

@@ -1,3 +1,4 @@
+export {};
 //Switch
 //Vai direto pro bloco de codigo correto
 

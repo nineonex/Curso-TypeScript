@@ -1,3 +1,4 @@
+export {};
 //Tuple
 let nomeTupla: [string, string, number];
 nomeTupla = ['Exemplo', 'Exemplo', 0];

@@ -1,3 +1,4 @@
+export {};
 //While
 let eu = 'Marciano';
 while (eu !== 'Jao') {

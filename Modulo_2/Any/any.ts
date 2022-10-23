@@ -1,6 +1,7 @@
+export {};
 //Any
 //Any se comporta como js padrao
-let nomeVariavel1: any = 'valor';
+let nomeVariavel: any = 'valor';
 //Exemplo
 const a: any = 888;
 const b: any = ['perigo'];
